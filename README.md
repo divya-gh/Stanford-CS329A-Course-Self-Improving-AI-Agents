@@ -1,5 +1,14 @@
 # Stanford-CS329A-Course-Self-Improving-AI-Agents
 Building Agents with self-improvement techniques for LLMs, such as constitutional AI, using verifiers, scaling test-time compute, combining search with LLMs, and train time scaling with RL. augmenting LLMs with tool use, code, and memory, and orchestrating AI capabilities with multimodal interaction with multi-step planning/reasoning workflows. 
+---
+
+## 1. Lesson 1: Introduction to Self‑Improving Agent
+#### Foundation: A self‑improving agent is an AI system that:
+- evaluates its own outputs
+- learns from mistakes
+- improves its reasoning over time
+- uses tools, memory, and feedback loops
+- gets better without retraining
 
 ## For Recruiters
 This project demonstrates:
