@@ -34,6 +34,24 @@ Evaluator (CS329A)
 - how Large Language Monkeys fits into your design
 - My roadmap
 - Architecture diagram
+- how recruiters can understand my work
 
-how recruiters can understand your work
+# project structure:
+/src
+    /planner
+    /sampler
+    /verifier
+    /reflector
+    /executor
+/notebooks
+    reasoning_experiments.ipynb
+    sampling_tests.ipynb
+/docs
+    roadmap.md
+    architecture.md
+    cs329a_notes.md
+README.md
+
+
+
 
