@@ -37,6 +37,7 @@ Evaluator (CS329A)
 - how recruiters can understand my work
 
 # project structure:
+---
 /src
     /planner
     /sampler
@@ -51,6 +52,7 @@ Evaluator (CS329A)
     architecture.md
     cs329a_notes.md
 README.md
+---
 
 
 
