@@ -9,3 +9,31 @@ This project demonstrates:
 - self-correction loops
 - verifier-based reliability
 - long-horizon task planning
+
+## Agent Architecture Flow
+
+- Planner (CS329A)
+↓
+Sampler (LL Monkeys)
+↓
+Verifier (LL Monkeys + CS329A)
+↓
+Reflector (CS329A)
+↓
+Archon Search (Archon)
+↓
+Executor (CS329A)
+↓
+Memory (CS329A)
+↓
+Evaluator (CS329A)
+
+# This README  xplains:
+- what a self‑improving agent is
+- how CS329A inspired the project
+- how Large Language Monkeys fits into your design
+- My roadmap
+- Architecture diagram
+
+how recruiters can understand your work
+
